@@ -1,2 +1,0 @@
-# Techie-Horizon
-Source Code
